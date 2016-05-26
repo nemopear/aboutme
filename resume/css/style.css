@@ -1,0 +1,15 @@
+.header {
+  padding: 3em 0 0;
+  background: url(../images/phangan-34.jpg) no-repeat center center;
+  background-size: cover;
+  backdrop-filter: blur(10px); }
+
+.img-profile {
+  border-radius: 50%;
+  max-width: 200px;
+  margin: 0 auto 1em; }
+
+.profile-wrapper {
+  margin: 0 auto;
+  background-color: rgba(255, 255, 255, 0.66);
+  padding: 4em; }
